@@ -11,7 +11,7 @@ local LocalPlayer = Players.LocalPlayer
 local Mouse = LocalPlayer:GetMouse()
 
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "LinoriaLikeLib"
+ScreenGui.Name = "Linoria typeshit"
 ScreenGui.ResetOnSpawn = false
 ScreenGui.Parent = CoreGui
 
